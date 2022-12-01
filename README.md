@@ -1,6 +1,6 @@
 # Spotify-Activator
 
-# APPLICATION MADE BY @L7AYY ON GITHUB PLEASE DONT SKID MY CODE! 
+# APPLICATION MADE BY @L7AYY ON GITHUB
 
 # discord.gg/boostlab
 
